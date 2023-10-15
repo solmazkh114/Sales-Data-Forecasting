@@ -17,5 +17,9 @@ This repository contians 4 main files:
   [this notebook](https://unit8co.github.io/darts/examples/01-multi-time-series-and-covariates.html), this type of training, when a model sees other series while training, can improve
   the performance of the model. Actually, the model will learn trend and seasonality within other time series which result in better performance.
 
+  In these notebooks we use some of techniques and methods we learned about in the following two Kaggle notebooks:
+   - [Notenbook 1](https://www.kaggle.com/code/chongzhenjie/ecuador-store-sales-global-forecasting-lightgbm)
+   - [Notebook 2](https://www.kaggle.com/code/ferdinandberr/darts-forecasting-deep-learning-global-models)
+
 
   
